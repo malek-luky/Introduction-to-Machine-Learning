@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Project1_ML"
+		},
+		{
+			"path": "../Project2_ML"
+		}
+	],
+	"settings": {}
+}
